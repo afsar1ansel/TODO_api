@@ -1,0 +1,24 @@
+{
+  "name": "todo_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afsar1ansel/TODO_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afsar1ansel/TODO_api/issues"
+  },
+  "homepage": "https://github.com/afsar1ansel/TODO_api#readme",
+  "dependencies": {
+    "jason-server": "^3.0.0"
+  }
+}
